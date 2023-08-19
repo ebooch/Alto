@@ -1,1 +1,16 @@
-com.android.egg
+-rw-r--r--  1 veryv  wheel  20 Mar 20 17:42 file.doc
+-rw-r--r--  1 veryv  wheel  20 Mar 20 17:43 newfile.doc
+android.permission.WRITE_SETTINGS
+android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.BIND_CONTROLS
+android.permission.READ_EXTERNAL_STORAGE
+androidx.core.content.FileProvider Android S Easter 
+com.android.egg.fileprovider
+com.android.egg.quares.QuaresActivity - Icon Quiz
+com.android.egg.paint.PaintActivity - PAINT.APK
+com.android.egg.neko.NekoLand - Android S Easter Egg
+com.android.egg.neko.NekoLockedActivity - Android S Easter Egg
+com.android.egg.ComponentActivationActivity - Android S Easter Egg
+com.android.egg.neko.NekoService - Android S Easter Egg
+
