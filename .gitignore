@@ -1,13 +1,7 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
-
-pkg/
-src/
+Xiaomi, M2004J19C
+Android 12 / S / API 31
+Baseband Version: MOLY.LR12A.R3.MP.V98.1.P24,MOLY.LR12A.R3.MP.V98.1.P24
+Build Number: SP1A.210812.016
+Build Fingerprint: Redmi/lancelot_id/lancelot:12/SP1A.210812.016/V13.0.1.0.SJCIDXM:user/release-keys
+Linux Kernel Version: 4.14.186-perf-gc587b558c53d
+Http User Agent: Dalvik/2.1.0 (Linux; U; Android 12; M2004J19C Build/SP1A.210812.016)
